@@ -1,0 +1,6 @@
+print("Merhaba")
+isim=input("İsminiz nedir")
+yaş=input("Yaşınızı girin")
+print("isim:", isim)
+print("yaş:", yaş)
+print(isim ,"Hoşgeldin", yaş , "Yaşındasın")
